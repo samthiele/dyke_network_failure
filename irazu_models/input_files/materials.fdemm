@@ -1,0 +1,1034 @@
+[
+    {
+        "Biot coefficient": 1,
+        "Colour": [
+            194,
+            194,
+            194
+        ],
+        "Damping Type": 1,
+        "Density": 2500,
+        "Internal Interface": {
+            "Cohesion": 1000000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 20000000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 187,
+            "Mode II Fracture Energy": 1875,
+            "Name": "Host",
+            "Normal Penalty": 20000000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 20000000000,
+            "Tensile Strength": 1000000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        "Name": "Host",
+        "Poisson's Ratio": 0.25,
+        "Porosity": 0.1,
+        "Property Type": "plane_strain",
+        "Stress reset time": -1,
+        "Viscous Damping": 0,
+        "Viscous Damping Factor": 1,
+        "Young's Modulus": 2000000000,
+        "modulus_of_elasticity_time": [
+        ],
+        "poisson_ratio_time": [
+        ],
+        "viscous_damping_coefficient_factor_time": [
+        ],
+        "viscous_damping_coefficient_time": [
+        ]
+    },
+    {
+        "Biot coefficient": 1,
+        "Colour": [
+            255,
+            219,
+            219
+        ],
+        "Damping Type": 1,
+        "Density": 2500,
+        "Internal Interface": {
+            "Cohesion": 5714000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 800000000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 4.6,
+            "Mode II Fracture Energy": 46,
+            "Name": "A",
+            "Normal Penalty": 800000000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 800000000000,
+            "Tensile Strength": 5714000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        "Name": "A",
+        "Poisson's Ratio": 0.25,
+        "Porosity": 0.1,
+        "Property Type": "plane_strain",
+        "Stress reset time": -1,
+        "Viscous Damping": 0,
+        "Viscous Damping Factor": 1,
+        "Young's Modulus": 80000000000,
+        "modulus_of_elasticity_time": [
+        ],
+        "poisson_ratio_time": [
+        ],
+        "viscous_damping_coefficient_factor_time": [
+        ],
+        "viscous_damping_coefficient_time": [
+        ]
+    },
+    {
+        "Biot coefficient": 1,
+        "Colour": [
+            255,
+            152,
+            152
+        ],
+        "Damping Type": 1,
+        "Density": 2500,
+        "Internal Interface": {
+            "Cohesion": 8000000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 266700000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 14,
+            "Mode II Fracture Energy": 140,
+            "Name": "B",
+            "Normal Penalty": 266700000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 266700000000,
+            "Tensile Strength": 8000000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        "Name": "B",
+        "Poisson's Ratio": 0.25,
+        "Porosity": 0.1,
+        "Property Type": "plane_strain",
+        "Stress reset time": -1,
+        "Viscous Damping": 0,
+        "Viscous Damping Factor": 1,
+        "Young's Modulus": 26670000000,
+        "modulus_of_elasticity_time": [
+        ],
+        "poisson_ratio_time": [
+        ],
+        "viscous_damping_coefficient_factor_time": [
+        ],
+        "viscous_damping_coefficient_time": [
+        ]
+    },
+    {
+        "Biot coefficient": 1,
+        "Colour": [
+            166,
+            193,
+            255
+        ],
+        "Damping Type": 1,
+        "Density": 2500,
+        "Internal Interface": {
+            "Cohesion": 13330000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 160000000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 23,
+            "Mode II Fracture Energy": 234,
+            "Name": "C",
+            "Normal Penalty": 160000000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 160000000000,
+            "Tensile Strength": 13330000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        "Name": "C",
+        "Poisson's Ratio": 0.25,
+        "Porosity": 0.1,
+        "Property Type": "plane_strain",
+        "Stress reset time": -1,
+        "Viscous Damping": 0,
+        "Viscous Damping Factor": 1,
+        "Young's Modulus": 16000000000,
+        "modulus_of_elasticity_time": [
+        ],
+        "poisson_ratio_time": [
+        ],
+        "viscous_damping_coefficient_factor_time": [
+        ],
+        "viscous_damping_coefficient_time": [
+        ]
+    },
+    {
+        "Biot coefficient": 1,
+        "Colour": [
+            196,
+            220,
+            255
+        ],
+        "Damping Type": 1,
+        "Density": 2500,
+        "Internal Interface": {
+            "Cohesion": 40000000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 114290000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 32,
+            "Mode II Fracture Energy": 328,
+            "Name": "D",
+            "Normal Penalty": 114290000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 114290000000,
+            "Tensile Strength": 40000000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        "Name": "D",
+        "Poisson's Ratio": 0.25,
+        "Porosity": 0.1,
+        "Property Type": "plane_strain",
+        "Stress reset time": -1,
+        "Viscous Damping": 0,
+        "Viscous Damping Factor": 1,
+        "Young's Modulus": 11429000000,
+        "modulus_of_elasticity_time": [
+        ],
+        "poisson_ratio_time": [
+        ],
+        "viscous_damping_coefficient_factor_time": [
+        ],
+        "viscous_damping_coefficient_time": [
+        ]
+    },
+    [
+        {
+            "Cohesion": 1000000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 20000000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 187,
+            "Mode II Fracture Energy": 1875,
+            "Name": "Host",
+            "Normal Penalty": 20000000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 20000000000,
+            "Tensile Strength": 1000000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 1000000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 20000000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 4.6,
+            "Mode II Fracture Energy": 46,
+            "Name": "Host-A",
+            "Normal Penalty": 20000000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 20000000000,
+            "Tensile Strength": 1000000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 1000000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 20000000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 14,
+            "Mode II Fracture Energy": 140,
+            "Name": "Host-B",
+            "Normal Penalty": 20000000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 20000000000,
+            "Tensile Strength": 1000000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 1000000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 20000000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 23,
+            "Mode II Fracture Energy": 234,
+            "Name": "Host-C",
+            "Normal Penalty": 20000000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 20000000000,
+            "Tensile Strength": 1000000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 1000000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 20000000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 32,
+            "Mode II Fracture Energy": 328,
+            "Name": "Host-D",
+            "Normal Penalty": 20000000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 20000000000,
+            "Tensile Strength": 1000000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 5714000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 800000000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 4.6,
+            "Mode II Fracture Energy": 46,
+            "Name": "A",
+            "Normal Penalty": 800000000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 800000000000,
+            "Tensile Strength": 5714000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 5714000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 266700000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 4.6,
+            "Mode II Fracture Energy": 46,
+            "Name": "A-B",
+            "Normal Penalty": 266700000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 266700000000,
+            "Tensile Strength": 5714000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 5714000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 160000000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 4.6,
+            "Mode II Fracture Energy": 46,
+            "Name": "A-C",
+            "Normal Penalty": 160000000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 160000000000,
+            "Tensile Strength": 5714000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 5714000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 114290000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 4.6,
+            "Mode II Fracture Energy": 46,
+            "Name": "A-D",
+            "Normal Penalty": 114290000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 114290000000,
+            "Tensile Strength": 5714000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 8000000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 266700000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 14,
+            "Mode II Fracture Energy": 140,
+            "Name": "B",
+            "Normal Penalty": 266700000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 266700000000,
+            "Tensile Strength": 8000000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 8000000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 160000000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 14,
+            "Mode II Fracture Energy": 140,
+            "Name": "B-C",
+            "Normal Penalty": 160000000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 160000000000,
+            "Tensile Strength": 8000000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 8000000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 114290000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 14,
+            "Mode II Fracture Energy": 140,
+            "Name": "B-D",
+            "Normal Penalty": 114290000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 114290000000,
+            "Tensile Strength": 8000000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 13330000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 160000000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 23,
+            "Mode II Fracture Energy": 234,
+            "Name": "C",
+            "Normal Penalty": 160000000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 160000000000,
+            "Tensile Strength": 13330000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 13330000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 114290000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 23,
+            "Mode II Fracture Energy": 234,
+            "Name": "C-D",
+            "Normal Penalty": 114290000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 114290000000,
+            "Tensile Strength": 13330000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        },
+        {
+            "Cohesion": 40000000,
+            "Enable flow through intact joints": 1,
+            "Enable reference element size": 0,
+            "Fracture Penalty": 114290000000,
+            "Friction": 0,
+            "Initial channel aperture": 1e-05,
+            "Matrix type": "permeable",
+            "Mode I Fracture Energy": 32,
+            "Mode II Fracture Energy": 328,
+            "Name": "D",
+            "Normal Penalty": 114290000000,
+            "Penalties Editable": false,
+            "Reference element size": 1,
+            "Residual channel aperture": 1e-05,
+            "Tangential Penalty": 114290000000,
+            "Tensile Strength": 40000000,
+            "Threshold channel aperture": 0.0001,
+            "Threshold channel aperture volume": 0.0001,
+            "Type": "vanilla",
+            "cohesion_time": [
+            ],
+            "enable_flow_through_intact_joints_time": [
+            ],
+            "fracture_penalty_time": [
+            ],
+            "friction_lookup_table_time": [
+            ],
+            "initial_channel_aperture_time": [
+            ],
+            "mode_II_fracture_energy_time": [
+            ],
+            "mode_I_fracture_energy_time": [
+            ],
+            "normal_penalty_lookup_table_time": [
+            ],
+            "tangential_penalty_lookup_table_time": [
+            ],
+            "tensile_strength_time": [
+            ],
+            "threshold_channel_aperture_time": [
+            ],
+            "threshold_channel_aperture_volume_time": [
+            ]
+        }
+    ]
+]
